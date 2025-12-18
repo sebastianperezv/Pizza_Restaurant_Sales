@@ -36,3 +36,8 @@ Se desarrolló un dashboard interactivo que permite:
 
 ## 🚀 Conclusión
 El análisis confirma que los viernes son los días con mayor demanda, principalmente durante el horario de almuerzo y la cena. Ademas, se logra visualizar que las ventas a lo largo del año poseen un comprtamiento estacional.
+
+## 📊 Resultados Power BI
+<img width="581" height="330" alt="1" src="https://github.com/user-attachments/assets/e09a3ea6-ad96-4732-93c9-269e67dedaa4" />
+
+<img width="589" height="313" alt="2" src="https://github.com/user-attachments/assets/84216d36-6250-4abb-8230-0e83c2cb8887" />
